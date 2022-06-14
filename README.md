@@ -1,0 +1,2 @@
+# wenscrapper-crypto-indicators
+I mentioned that there are very few useful APIs for cryptocurrency indicators such as RSI, MACD and etc. Huge amount of simple crypto APIs without indicators make it even harder to find great API. Therefore I decided to web-scrap data from known exchanges or websites. I already did try web-scraping Binance and TradingView, unfortunately these attempts were unsuccessful. Yet still, I don't give up since I might need tremendous amount of data in future, and web-scraper will let be get an unlimited access to this data.
