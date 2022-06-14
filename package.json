@@ -1,0 +1,26 @@
+{
+  "name": "wenscrapper-crypto-indicators",
+  "version": "1.0.0",
+  "description": "I mentioned that there are very few useful APIs for cryptocurrency indicators such as RSI, MACD and etc. Huge amount of simple crypto APIs without indicators make it even harder to find great API. Therefore I decided to web-scrap data from known exchanges or websites. I already did try web-scraping Binance and TradingView, unfortunately these attempts were unsuccessful. Yet still, I don't give up since I might need tremendous amount of data in future, and web-scraper will let be get an unlimited access to this data.",
+  "main": "TAapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chingizof/wenscrapper-crypto-indicators.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chingizof/wenscrapper-crypto-indicators/issues"
+  },
+  "homepage": "https://github.com/chingizof/wenscrapper-crypto-indicators#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "fs": "^0.0.1-security",
+    "pretty": "^2.0.0"
+  }
+}
